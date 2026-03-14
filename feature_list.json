@@ -1,0 +1,70 @@
+[
+  {
+    "id": "page-structure-layout",
+    "category": "ui",
+    "description": "Basic HTML page structure with proper semantic elements (header, main, footer) to organize content logically and provide a foundation for the welcome page",
+    "steps": [
+      "Load the welcome page in a browser",
+      "Inspect the DOM structure to verify header, main, and footer elements exist",
+      "Verify the page renders without console errors",
+      "Confirm the page has a proper DOCTYPE and HTML structure"
+    ],
+    "priority": 1,
+    "passes": true,
+    "selected": true,
+    "order": 1,
+    "status": "completed",
+    "completedAt": "2026-03-14T12:09:00.000Z"
+  },
+  {
+    "id": "page-title-meta",
+    "category": "ui",
+    "description": "Page title and meta tags that appear in browser tabs and search results, providing context about the welcome page and improving discoverability",
+    "steps": [
+      "Open the welcome page in a browser",
+      "Check the browser tab displays a meaningful title",
+      "View page source and verify meta description tag exists",
+      "Verify meta viewport tag is present for responsive design"
+    ],
+    "priority": 1,
+    "passes": true,
+    "selected": true,
+    "order": 2,
+    "status": "completed",
+    "completedAt": "2026-03-14T12:09:00.000Z"
+  },
+  {
+    "id": "hero-section",
+    "category": "ui",
+    "description": "Prominent hero section at the top of the page with a welcoming headline and subheadline that immediately communicates the purpose and value to visitors",
+    "steps": [
+      "Load the welcome page",
+      "Verify a large, prominent headline is visible above the fold",
+      "Confirm a supporting subheadline or description is present",
+      "Check that the hero section is visually distinct and eye-catching"
+    ],
+    "priority": 1,
+    "passes": true,
+    "selected": true,
+    "order": 3,
+    "status": "completed",
+    "completedAt": "2026-03-14T12:09:00.000Z"
+  },
+  {
+    "id": "primary-cta-button",
+    "category": "functional",
+    "description": "Primary call-to-action button in the hero section that guides users to take the main desired action (e.g., Get Started, Sign Up, Learn More)",
+    "steps": [
+      "Locate the primary CTA button in the hero section",
+      "Verify the button has clear, action-oriented text",
+      "Click the button and confirm it responds appropriately",
+      "Check that the button is visually prominent with contrasting colors"
+    ],
+    "priority": 1,
+    "passes": true,
+    "selected": true,
+    "order": 4,
+    "status": "completed",
+    "completedAt": "2026-03-14T12:09:00.000Z"
+  }
+]

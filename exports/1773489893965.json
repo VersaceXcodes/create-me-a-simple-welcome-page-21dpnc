@@ -1,0 +1,15 @@
+{
+  "timestamp": 1773489893965,
+  "operation": {
+    "id": "settings:config:package"
+  },
+  "projectId": "create-me-a-simple-welcome-page",
+  "files": [
+    {
+      "path": "/mnt/data/create-me-a-simple-welcome-page/backend/.env",
+      "type": "text",
+      "size": 351,
+      "dependencies": false
+    }
+  ]
+}
